@@ -22,6 +22,7 @@ There are 4 themes:
 * Omega Dark (`OMEGA_THEME=omega_dark`)
 * Epsilon Light (`OMEGA_THEME=epsilon_light`)
 * Epsilon Dark (`OMEGA_THEME=epsilon_dark`)
+* Blue Light (`OMEGA_THEME=blue_light`)
 
 ## An idea of theme?
 
